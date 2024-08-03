@@ -29,5 +29,6 @@
         "Kwenziwa\\FilamentSmsSender\\Providers\\SmsSenderServiceProvider"
       ]
     }
-  }
+  },
+   "version": "1.0.0"
 }
