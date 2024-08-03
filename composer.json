@@ -1,6 +1,6 @@
 {
   "name": "kwenziwa/filament-sms-sender",
-  "description": "A Filament plugin for sending SMS to users.",
+  "description": "A Filament plugin for sending SMS messages using Vonage (formerly Nexmo). This package allows you to select users from a dropdown, configure SMS settings, and send messages directly from your Laravel application.",
   "keywords": [
         "Filament","Laravel"," Nexmo / Vonage","SMS", "Plugin", "Messaging"
     ],
