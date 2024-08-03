@@ -146,5 +146,3 @@ Contributions are welcome! Please submit issues or pull requests on GitHub. Make
 ## Contact
 
 For support or inquiries, please contact <kwenziwa@live.com>.
-
-Would you like me to explain or break down any part of this README?
