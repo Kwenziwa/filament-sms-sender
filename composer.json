@@ -27,7 +27,7 @@
     "php": "^8.0",
     "filament/filament": "^3.2.97",
     "vonage/client-core": "^2.6",
-    "laravel/framework": "^10.0"
+    "laravel/framework": "^11.0"
   },
   "extra": {
     "laravel": {
